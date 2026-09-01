@@ -85,10 +85,10 @@ I'm a **Lead Data Scientist** with **7+ years of experience** leading the end-to
 ---
 
 ### 📫 Connect with Me
-
 <p align="left">
   <a href="mailto:durgarajjayasree@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Jayasree9824"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://jayasree9824.github.io"><img src="https://img.shields.io/badge/Portfolio-2F6FED?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Balancing hands-on technical depth with people leadership — building AI-forward analytics that drive measurable business impact.</i></p>
